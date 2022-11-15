@@ -239,6 +239,7 @@ Circuito b<br>
 VS1 conectada a R1 y VS2 conectada a R2<br>
 VS1 conectada a R2 y VS2 conectada a R1<br>
 
+
 37.Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de
 fuente en la figura 2-72<br>
 Para medir carga nuestro voltimetros e dbe conectar en paralelo de acuerdo a donde vamos a obtener la medición , si queremos medir corriente lo haremos mediante un amperimetro conectado en serie.<br>
@@ -274,10 +275,12 @@ ohmmetro:<br>
 
 47.Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir
 cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos<br>
+Para medir corriente realizamos la conexion en serio denuestro circuito , ademas para medir voltaje conectamos en paralelo, per el multimetro presente analogo para la corriente que circula dentro de la primera malla  debe ser colocado en serie y la manilla debe ubicarse en la parte  inferior izquierda (12 mA), para voltaje se conectara al multimetro en paralelo y la manilla debe ubicarse en parte superior izquierda (12 v) , para medir la resitencia el ohmetro debe estar coenctado a los extremos de la resistencia y la manilla se ubicara en 1 kOhm
+
 (a) I1<br>
-[![2-76-I.png](https://i.postimg.cc/mDz93N4Y/2-76-I.png)](https://postimg.cc/9R2zC9r0)
+[![2-76-I.png](https://i.postimg.cc/mDz93N4Y/2-76-I.png)](https://postimg.cc/9R2zC9r0)<br>
 (b) V1<br>
-[![12-76-1.png](https://i.postimg.cc/tCfzLTSC/12-76-1.png)](https://postimg.cc/dL2dCqcz)
+[![12-76-1.png](https://i.postimg.cc/tCfzLTSC/12-76-1.png)](https://postimg.cc/dL2dCqcz)<br>
 (c) R1<br>
 
 
