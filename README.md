@@ -13,7 +13,7 @@ Comprender los fundamentos de circuitos electricos empezando por enteder clarame
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-##Capitulo 1
+## Capitulo 1
 # SECCIÓN 1–2 Notación científica
 1.Exprese cada uno de los números siguientes en notación científica:<br>
 (a) 3000 (b) 75,000 (c) 2,000,000<br>
@@ -258,16 +258,17 @@ través del resistor y la que sale de la batería.<br>
 45.Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de
 ohmmetro:<br>
 (a) manecilla en 2, ajuste de intervalo en 310<br>
-2x10 = 200Ω
-(b) manecilla en 15, ajuste de intervalo en 3100,000
-15x100,000 = 1500,000
-           = 1.5x10^6 
-           = 1.5MΩ
-(c) manecilla en 45, ajuste de intervalo en 3100
-45x100 = 4500 Ω
+2x10 = 200Ω<br>
+(b) manecilla en 15, ajuste de intervalo en 3100,000<br>
+15x100,000 = 1500,000<br>
+           = 1.5x10^6<br> 
+           = 1.5MΩ<br>
+(c) manecilla en 45, ajuste de intervalo en 3100<br>
+45x100 = 4500 Ω<br>
 
 47.Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir
-cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos
+cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos<br>
+
 
 
 
