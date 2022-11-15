@@ -3,8 +3,9 @@
 # Objetivo General
 Comprender los fundamentos de circuitos electricos empezando por enteder claramente conceptos basicos como unidades de medicion, notación científica, notacion de ingenieria, prefijos métricos y conversiones de unidades métricas temas básicos e indispensables para proceder a entender y calcular conceptos de circuitos electricos tales como voltaje, corrriente y resistencia , fuentes de voltaje, resistores realizar mediciones de circuitos básicos lo descrito anteriormente se logrará mediante la lectura y posterior elaboración de ejericios relacionados a cada tema lo cual ayudara a tener un conocimiento sólido de bases que nos ayudarán a profundizar en la materia posteriormente.
 # Objetivos Específicos
-
-
+- Expresar cantidades en notacion científica y poderlas aplicar para el correcto uso de los prefijos métricos.
+- Diferenciar y comprender los conceptos de Voltaje , corriente y resistencia los cuales son fundamentales.
+- Realizar correctamente las mediciones básicas de un circuito (intensidad de corriente, voltaje , resitencia) .
 
 ## 2. Marco Teorico
 
@@ -270,8 +271,10 @@ ohmmetro:<br>
 cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos<br>
 
 
-
-
+### Conclusiones 
+- Realizar los ejercicios de notacion científica sirvio de mucha ayuda para poder comprender la notacion cinetifica y su uso , debido a que es muy importanteb para lograr realizar conversiones de unidades metricas como por ejemplo de miliamperes a microamperes ,gracias a esto se podra realizar los calculos más precisos y de una mejor manera.
+- Si bien voltaje, corriente y resistencia se relacionan entre si sus conceptos son diferentes y han quedado claros tras la explicacion docente y la elaboracion del proyecto gracias a este metodo de enseñanza esta mas que claro estsos conceptos básicos y fundamentales dentro de la materia.
+- Realizar correctamente mediciones es un circuito es muy imprtante para cualuqier cálculo electrico que vayamos a realizar desde el más basico al más complejo inclusive para prevenir accidentes es de vital importancia saber como medirlo y se a logrado comprender muy bien que para medir voltaje se conecta en paralelo y para intensidad de correinte en serie algo muy básico que todo tecnico en electricidad debe conocer y dominar.
 
 
 
