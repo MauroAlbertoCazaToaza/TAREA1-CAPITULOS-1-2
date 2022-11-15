@@ -282,7 +282,7 @@ Para medir corriente realizamos la conexion en serio denuestro circuito , ademas
 (b) V1<br>
 [![12-76-1.png](https://i.postimg.cc/tCfzLTSC/12-76-1.png)](https://postimg.cc/dL2dCqcz)<br>
 (c) R1<br>
-
+[![R1.png](https://i.postimg.cc/wxQgjVwy/R1.png)](https://postimg.cc/F1z2Pj5N)<br>
 
 
 # 4.VIDEO
