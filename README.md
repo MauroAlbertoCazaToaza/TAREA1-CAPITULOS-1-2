@@ -283,6 +283,7 @@ cada una de las siguientes cantidades. Incluya la función y el intervalo apropi
 
 
 # 4.VIDEO
+https://youtu.be/97qnoz-MgO4
 
 # 5.CONCLUSIONES 
 - Realizar los ejercicios de notacion científica sirvio de mucha ayuda para poder comprender la notacion cinetifica y su uso , debido a que es muy importanteb para lograr realizar conversiones de unidades metricas como por ejemplo de miliamperes a microamperes ,gracias a esto se podra realizar los calculos más precisos y de una mejor manera.
@@ -290,6 +291,10 @@ cada una de las siguientes cantidades. Incluya la función y el intervalo apropi
 - Realizar correctamente mediciones es un circuito es muy imprtante para cualuqier cálculo electrico que vayamos a realizar desde el más basico al más complejo inclusive para prevenir accidentes es de vital importancia saber como medirlo y se a logrado comprender muy bien que para medir voltaje se conecta en paralelo y para intensidad de correinte en serie algo muy básico que todo tecnico en electricidad debe conocer y dominar.
 
 # 6 BIBLIOGRAFÍA
+
+Floyd, T. (2007). Principios de Circuitos Electricos. PEARSON EDUCACIÓN.
+
+
 
 
 
