@@ -1,4 +1,8 @@
 # TAREA1-CAPITULOS-1-2
+## 2.Marco Teorico
+
+[![MT.png](https://i.postimg.cc/Pxb9WB4n/MT.png)](https://postimg.cc/R6Fg9pyg)
+
 ## 3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 ##Capitulo 1
