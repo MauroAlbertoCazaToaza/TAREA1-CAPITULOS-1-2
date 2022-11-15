@@ -7,7 +7,7 @@ Comprender los fundamentos de circuitos electricos empezando por enteder clarame
 - Diferenciar y comprender los conceptos de Voltaje , corriente y resistencia los cuales son fundamentales.
 - Realizar correctamente las mediciones básicas de un circuito (intensidad de corriente, voltaje , resitencia) .
 
-# 2. Marco Teorico
+# 2. Marco Teórico
 
 [![MT.png](https://i.postimg.cc/Pxb9WB4n/MT.png)](https://postimg.cc/R6Fg9pyg)
 [![Light-Purple-Simple-Modern-Online-Business-Mind-Map-Brainstorm-1.png](https://i.postimg.cc/9XKpCgXV/Light-Purple-Simple-Modern-Online-Business-Mind-Map-Brainstorm-1.png)](https://postimg.cc/0rGmCfJH)
@@ -15,11 +15,11 @@ Comprender los fundamentos de circuitos electricos empezando por enteder clarame
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 ## Capitulo 1
-# SECCIÓN 1–2 Notación científica
+## SECCIÓN 1–2 Notación científica
 1.Exprese cada uno de los números siguientes en notación científica:<br>
 (a) 3000 (b) 75,000 (c) 2,000,000<br>
 
-(a) 3x10^-3 (b) 7.5x10^4 (c) 2x10<br>
+(a) 3x10^-3 (b) 7.5x10^4 (c) 2x10^6<br>
 
 3.Exprese cada uno de los números siguientes en notación científica:<br>
 (a) 8400 (b) 99,000 (c)0.2x10^6<br>
@@ -41,10 +41,10 @@ Comprender los fundamentos de circuitos electricos empezando por enteder clarame
 (a)(9.2x10^6)+(3.4x10^7)<br>
 (a)4.32x10^7<br> 
 
-(b)(5x10^3)+(8.5x10^-1)
+(b)(5x10^3)+(8.5x10^-1)<br>
 (b)5.00085x10^3<br>
 
-(c)(5.6x10^-8)+(4.6x10^-9)
+(c)(5.6x10^-8)+(4.6x10^-9)<br>
 (c)6.06x10^-8<br>
 
 11.Realice las siguientes multiplicaciones:<br>
@@ -118,7 +118,12 @@ Comprender los fundamentos de circuitos electricos empezando por enteder clarame
 (d)10.000 kW<br>
 
 29.Sume las siguientes cantidades:<br>
-(a)50 mA + 680µA   (b) 120kΩ +2.2 MΩ (c)0.02 µF + 3300 pF<br>
+(a)50 mA + 680µA<br>
+= 50.68 mA<br>
+(b) 120kΩ +2.2 MΩ<br>
+= 2.32MΩ<br>
+(c)0.02 µF + 3300 pF<br>
+= 0.0233 µF <br>
 
 ## Capitulo 2
 1.¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?<br>
@@ -170,11 +175,11 @@ regulada con varios niveles de voltaje.<br>
 21.Determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas<br>
 (a) rojo, violeta, naranja, oro (b) café, gris, rojo, plata<br>
 
-(a) rojo = 2 violeta=7 naranja= 000 oro= +-5%
-27000Ω       +-5% tolerancia<br>
+(a) rojo = 2 violeta=7 naranja= 000 oro= +-5%<br>
+= 27000Ω       +-5% tolerancia<br>
 
 (b) café=1 gris=8  rojo=00  plata= +-10% <br>
-1800Ω        +-10% tolerancia<br>
+= 1800Ω        +-10% tolerancia<br>
 
 
 23.Determine las bandas de color para cada uno de los siguientes valores de 4 bandas y 5% de
@@ -271,10 +276,14 @@ ohmmetro:<br>
 cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos<br>
 
 
-# Conclusiones 
+# 4.VIDEO
+
+# 5.CONCLUSIONES 
 - Realizar los ejercicios de notacion científica sirvio de mucha ayuda para poder comprender la notacion cinetifica y su uso , debido a que es muy importanteb para lograr realizar conversiones de unidades metricas como por ejemplo de miliamperes a microamperes ,gracias a esto se podra realizar los calculos más precisos y de una mejor manera.
 - Si bien voltaje, corriente y resistencia se relacionan entre si sus conceptos son diferentes y han quedado claros tras la explicacion docente y la elaboracion del proyecto gracias a este metodo de enseñanza esta mas que claro estsos conceptos básicos y fundamentales dentro de la materia.
 - Realizar correctamente mediciones es un circuito es muy imprtante para cualuqier cálculo electrico que vayamos a realizar desde el más basico al más complejo inclusive para prevenir accidentes es de vital importancia saber como medirlo y se a logrado comprender muy bien que para medir voltaje se conecta en paralelo y para intensidad de correinte en serie algo muy básico que todo tecnico en electricidad debe conocer y dominar.
+
+# 6 BIBLIOGRAFÍA
 
 
 
