@@ -33,7 +33,7 @@ Comprender los fundamentos de circuitos electricos empezando por enteder clarame
 7.Exprese cada uno de los números siguientes como un número decimal regular:<br>
 (a)2.5x10^-6   (b)5.0x10^2   (c)3.9x10^-1<br>
 
-(a)0.0000025   (b)500        (c)0.39
+(a)0.0000025   (b)500        (c)0.39<br>
 
 9.Sume los números siguientes:<br>
 (a)(9.2x10^6)+(3.4x10^7)<br>
@@ -110,130 +110,163 @@ Comprender los fundamentos de circuitos electricos empezando por enteder clarame
 (a) 5 mA a microamperes (b) 3200 mW a miliwatts<br>
 (c) 5000 kV a megavolts (d) 10 MW a kilowatts<br>
 
-(a) 5000 uA
-(b) 3.2 mW
-(c) 5 MV
-(d)10.000 kW
+(a) 5000 uA<br>
+(b) 3.2 mW<br>
+(c) 5 MV<br>
+(d)10.000 kW<br>
 
-29.Sume las siguientes cantidades:
-(a)50 mA + 680µA   (b) 120kΩ +2.2 MΩ (c)0.02 µF + 3300 pF
+29.Sume las siguientes cantidades:<br>
+(a)50 mA + 680µA   (b) 120kΩ +2.2 MΩ (c)0.02 µF + 3300 pF<br>
 
-##Capitulo 2
-1.¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?
-4.64 x10^-18 C
+## Capitulo 2
+1.¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?<br>
+4.64 x10^-18C
 
-3.¿Cuántos coulombs de carga poseen 50 3 1031 electrones?
- Q= (50 x 10^31)/(6.25x 10^18)
- Q= 8.0x1013 C
+3.¿Cuántos coulombs de carga poseen 50 3 1031 electrones?<br>
+ Q= (50 x 10^31)/(6.25x 10^18)<br>
+ Q= 8.0x1013 C<br>
  
 # SECCIÓN 2–3 Voltaje, corriente y resistencia
 
-5. Determine el voltaje en cada uno de los siguientes casos:
-(a) 10 J/C (b) 5J/2C (c) 100J/25C
-[![P5.png](https://i.postimg.cc/V67MmzM4/P5.png)](https://postimg.cc/BLKtC9m1)
+5. Determine el voltaje en cada uno de los siguientes casos:<br>
+(a) 10 J/C (b) 5J/2C (c) 100J/25C<br>
+[![P5.png](https://i.postimg.cc/V67MmzM4/P5.png)](https://postimg.cc/BLKtC9m1)<br>
 
 
 7. ¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de
-un resistor?
-[![P7.png](https://i.postimg.cc/PfgzSzbq/P7.png)](https://postimg.cc/w3kmvNGK)
+un resistor?<br>
+[![P7.png](https://i.postimg.cc/PfgzSzbq/P7.png)](https://postimg.cc/w3kmvNGK)<br>
 
 9. Si un resistor con una corriente de 2 A a través de él convierte 1000 J de energía eléctrica en energía
-calorífica en 15 s, ¿cuál es el voltaje a través del resistor?
-[![P9.png](https://i.postimg.cc/ZKfYTjfb/P9.png)](https://postimg.cc/jL7Yc60m)
+calorífica en 15 s, ¿cuál es el voltaje a través del resistor?<br>
+[![P9.png](https://i.postimg.cc/ZKfYTjfb/P9.png)](https://postimg.cc/jL7Yc60m)<br>
 
 
-11. Seis décimos de coulomb pasan por un punto en 3 s. ¿Cuál es la corriente en amperes?
-[![P11.png](https://i.postimg.cc/K862zWt2/P11.png)](https://postimg.cc/WdwKYX9W)
+11. Seis décimos de coulomb pasan por un punto en 3 s. ¿Cuál es la corriente en amperes?<br>
+[![P11.png](https://i.postimg.cc/K862zWt2/P11.png)](https://postimg.cc/WdwKYX9W)<br>
 
-13. ¿Cuántos coulombs pasan por un punto en 0.1 s cuando la corriente es de 1.5 A?
-[![P13.png](https://i.postimg.cc/ncKR7P8x/P13.png)](https://postimg.cc/TpwJvQYN)
+13. ¿Cuántos coulombs pasan por un punto en 0.1 s cuando la corriente es de 1.5 A?<br>
+[![P13.png](https://i.postimg.cc/ncKR7P8x/P13.png)](https://postimg.cc/TpwJvQYN)<br>
 
-15. Determine la conductancia para cada uno de los siguientes valores de resistencia:
-a) 5Ω  b) 25 Ω   c) 100  Ω
-[![P15.png](https://i.postimg.cc/DZVp1kz2/P15.png)](https://postimg.cc/WDn7PyrK)
+15. Determine la conductancia para cada uno de los siguientes valores de resistencia:<br>
+a) 5Ω  b) 25 Ω   c) 100  Ω<br>
+[![P15.png](https://i.postimg.cc/DZVp1kz2/P15.png)](https://postimg.cc/WDn7PyrK)<br>
 
 # SECCIÓN 2–4 Fuentes de voltaje y de corriente
 
-17. Enliste cuatro fuentes de voltaje comunes.
-Baterias
-Celdas solares
-Generador
-Fuente de Potencia de cd
+17. Enliste cuatro fuentes de voltaje comunes.<br>
+Baterias<br>
+Celdas solares<br>
+Generador<br>
+Fuente de Potencia de cd<br>
 
-19.¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?
+19.¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?<br>
 Convierte energía comercial (ca de la compañía de electricidad) en cd
-regulada con varios niveles de voltaje.
+regulada con varios niveles de voltaje.<br>
 
 # SECCIÓN 2–5 Resistores
-21.Determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas
-(a) rojo, violeta, naranja, oro (b) café, gris, rojo, plata
+21.Determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas<br>
+(a) rojo, violeta, naranja, oro (b) café, gris, rojo, plata<br>
 
 (a) rojo = 2 violeta=7 naranja= 000 oro= +-5%
-27000Ω       +-5% tolerancia
+27000Ω       +-5% tolerancia<br>
 
-(b) café=1 gris=8  rojo=00  plata= +-10% 
-1800Ω        +-10% tolerancia
+(b) café=1 gris=8  rojo=00  plata= +-10% <br>
+1800Ω        +-10% tolerancia<br>
 
 
 23.Determine las bandas de color para cada uno de los siguientes valores de 4 bandas y 5% de
-tolerancia: 330 2.2 56 100 y 39
-a) 330 Ω
-naranja, naranja, café, oro
+tolerancia: 330 2.2 56 100 y 39<br>
+a) 330 Ω<br>
+naranja, naranja, café, oro<br>
        
-b) 2.2 kΩ
-rojo, rojo, rojo, oro 
+b) 2.2 kΩ<br>
+rojo, rojo, rojo, oro<br> 
        
-c) 56 kΩ
-verde, azul, naranja, oro.
+c) 56 kΩ<br>
+verde, azul, naranja, oro.<br>
        
-d) 100 kΩ 
-café, negro, amarillo, oro
+d) 100 kΩ<br> 
+café, negro, amarillo, oro<br>
        
-e) 39 kΩ
-naranja, blanco, naranja, oro 
+e) 39 kΩ<br>
+naranja, blanco, naranja, oro<br> 
 
 
 
 25.Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que
-cada resistor tiene una tolerancia del 5 por ciento.
-(a)0.47Ω
-amarillo  violeta  plata  oro
+cada resistor tiene una tolerancia del 5 por ciento.<br>
+(a)0.47Ω<br>
+amarillo  violeta  plata  oro<br>
 
-(b)270kΩ
-rojo  violeta  amarillo  oro
+(b)270kΩ<br>
+rojo  violeta  amarillo  oro<br>
 
-(c)5.1MΩ
-verde  café  verde  oro
+(c)5.1MΩ<br>
+verde  café  verde  oro<br>
 
 
 27.Determine las bandas de color para cada uno de los siguientes resistores de 5 bandas. Asuma que
-cada resistor tiene tolerancia del 1 por ciento.
-(a) 14.7 kΩ
-14700 = cafe,amarillo,violeta, rojo y cafe
-(b) 39.2 Ω
-naranja,blanco,rojo,oro y cafe
-(c) 9.76 kΩ
-9760 = blanco,violeta,azul,cafe y cafe
+cada resistor tiene tolerancia del 1 por ciento.<br>
+(a) 14.7 kΩ<br>
+14700 = cafe,amarillo,violeta, rojo y cafe<br>
+(b) 39.2 Ω<br>
+naranja,blanco,rojo,oro y cafe<br>
+(c) 9.76 kΩ<br>
+9760 = blanco,violeta,azul,cafe y cafe<br>
 
-29.¿Cuál es la resistencia indicada por 4K7?
-4,7 kΩ
+29.¿Cuál es la resistencia indicada por 4K7?<br>
+4,7 kΩ<br>
 
-31.Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.
-[![31.png](https://i.postimg.cc/YSs6c1Fj/31.png)](https://postimg.cc/wtDyLR0d)
-Por la lampara 2
+31.Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.<br>
+[![31.png](https://i.postimg.cc/YSs6c1Fj/31.png)](https://postimg.cc/wtDyLR0d)<br>
+Por la lampara 2<br>
 
-33.En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es este circuito
-[![33.png](https://i.postimg.cc/G2tXGLFT/33.png)](https://postimg.cc/WFRmPPfs)
-Circuito b
+33.En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es este circuito<br>
+[![33.png](https://i.postimg.cc/G2tXGLFT/33.png)](https://postimg.cc/WFRmPPfs)<br>
+Circuito b<br>
 
 
 35. Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 yVS2) al mismo tiempo a cualquiera de dos resistores (R1 y R2
-) como sigue:
-VS1 conectada a R1 y VS2 conectada a R2
-VS1 conectada a R2 y VS2 conectada a R1
+) como sigue:<br>
+VS1 conectada a R1 y VS2 conectada a R2<br>
+VS1 conectada a R2 y VS2 conectada a R1<br>
 
+37.Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de
+fuente en la figura 2-72<br>
+Para medir carga nuestro voltimetros e dbe conectar en paralelo de acuerdo a donde vamos a obtener la medición , si queremos medir corriente lo haremos mediante un amperimetro conectado en serie.<br>
+[![2-72.png](https://i.postimg.cc/90bjH1LT/2-72.png)](https://postimg.cc/SYnPWLFN)<br>
 
+39.En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1?
+¿En la posición 2?<br>
+[![2-73.png](https://i.postimg.cc/W3rr2Yqd/2-73.png)](https://postimg.cc/2bk3GwwY)
+Observamos que si el interruptor esta en la posicion 1 la corriente que fuye de Vs sera igual a la correinte de V2, de mismo modo que en V1 no hay flujo de corriente por lo cual sera 0<br>
+V1 = 0V V2= Vs<br>
 
+En la posicion del interruptor en dos obervamos que la corriente de Vs fuye hacia V1 por consecuencia estas dos corrrientes eran iguales mientras que en V2 no habrá corrriente <br>
+V1=Vs   V2=0V<br>
+
+41.En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a
+través del resistor y la que sale de la batería.<br>
+[![41.png](https://i.postimg.cc/QNWnRj6b/41.png)](https://postimg.cc/z38jhYYb)<br>
+
+43.¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?<br>
+250V<br>
+[![2-74.png](https://i.postimg.cc/0jMg4mzd/2-74.png)](https://postimg.cc/sGr0QM9v)
+
+45.Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de
+ohmmetro:<br>
+(a) manecilla en 2, ajuste de intervalo en 310<br>
+2x10 = 200Ω
+(b) manecilla en 15, ajuste de intervalo en 3100,000
+15x100,000 = 1500,000
+           = 1.5x10^6 
+           = 1.5MΩ
+(c) manecilla en 45, ajuste de intervalo en 3100
+45x100 = 4500 Ω
+
+47.Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir
+cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos
 
 
 
