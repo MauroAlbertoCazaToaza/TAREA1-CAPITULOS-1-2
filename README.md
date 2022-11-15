@@ -9,6 +9,7 @@ Comprender los fundamentos de circuitos electricos empezando por enteder clarame
 ## 2. Marco Teorico
 
 [![MT.png](https://i.postimg.cc/Pxb9WB4n/MT.png)](https://postimg.cc/R6Fg9pyg)
+[![Light-Purple-Simple-Modern-Online-Business-Mind-Map-Brainstorm-1.png](https://i.postimg.cc/9XKpCgXV/Light-Purple-Simple-Modern-Online-Business-Mind-Map-Brainstorm-1.png)](https://postimg.cc/0rGmCfJH)
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
