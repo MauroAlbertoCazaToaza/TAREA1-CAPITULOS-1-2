@@ -1,9 +1,16 @@
 # TAREA1-CAPITULOS-1-2
-## 2.Marco Teorico
+## 1. OBJETIVOS
+# Objetivo General
+Comprender los fundamentos de circuitos electricos empezando por enteder claramente conceptos basicos como unidades de medicion, notación científica, notacion de ingenieria, prefijos métricos y conversiones de unidades métricas temas básicos e indispensables para proceder a entender y calcular conceptos de circuitos electricos tales como voltaje, corrriente y resistencia , fuentes de voltaje, resistores realizar mediciones de circuitos básicos lo descrito anteriormente se logrará mediante la lectura y posterior elaboración de ejericios relacionados a cada tema lo cual ayudara a tener un conocimiento sólido de bases que nos ayudarán a profundizar en la materia posteriormente.
+# Objetivos Específicos
+
+
+
+## 2. Marco Teorico
 
 [![MT.png](https://i.postimg.cc/Pxb9WB4n/MT.png)](https://postimg.cc/R6Fg9pyg)
 
-## 3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 ##Capitulo 1
 # SECCIÓN 1–2 Notación científica
