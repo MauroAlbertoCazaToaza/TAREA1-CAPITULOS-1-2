@@ -274,6 +274,12 @@ ohmmetro:<br>
 
 47.Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir
 cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos<br>
+(a) I1<br>
+[![2-76-I.png](https://i.postimg.cc/mDz93N4Y/2-76-I.png)](https://postimg.cc/9R2zC9r0)
+(b) V1<br>
+[![12-76-1.png](https://i.postimg.cc/tCfzLTSC/12-76-1.png)](https://postimg.cc/dL2dCqcz)
+(c) R1<br>
+
 
 
 # 4.VIDEO
